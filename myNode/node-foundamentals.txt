@@ -1,0 +1,30 @@
+- node foundamentals
+- Express.js
+- MongoDB, Mongoose
+- Applications
+- Deployment
+
+NodeJS is an environment to run JS outside of the browser. It's built on Chrome's V8 JS Engine.
+It's never been easier to build full-stack apps.
+    - intro - get familiar and settup
+    - install
+    - node foundamentals
+    - express tutorial foundamentals
+    - build cool node js apps
+
+Node vs browser
+    No browser API's
+    No DOM
+    No Window
+    Server side apps - pure logic without graphical interface
+    we can access filesystem
+    based on versions
+    access to modules by defauld
+    CommonJS
+
+Built-in modules
+    OS
+    PATH
+    FS
+    HTTP
+
