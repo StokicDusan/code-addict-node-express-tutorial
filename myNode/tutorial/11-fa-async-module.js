@@ -1,3 +1,4 @@
+//asynchronous -> non blocking
 //nesting callbacks inside callbacks -> callback hell 
 
 const { readFile, writeFile } = require('fs')
