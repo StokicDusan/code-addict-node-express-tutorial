@@ -32,4 +32,4 @@ readFile('./content/first.txt', 'utf8', (err, result) => {
 console.log('starting next task')
 
 // the moment we start the task, we off-load it and we continue with the code
-// so node can start a new task right away and serve other users that arive 
+// so node can start a new task right away and serve other users that arrive 
