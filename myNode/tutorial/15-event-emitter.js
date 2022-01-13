@@ -17,3 +17,6 @@ customEmitter.on('response',()=>{ //name of the event is response
 }) 
 
 customEmitter.emit('response') 
+
+// the order matters!! You first listen and then emit.
+// it makes no sence to listen to the event once it's already emitted
