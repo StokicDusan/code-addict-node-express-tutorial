@@ -3,6 +3,10 @@
 
 // Used Hevily in Node.js !!
 
+// get back the class
+// if want custom extend from class
+// otherwise just for emitting and handling events create instance
+
 console.log('Welcome to Node Tutorial')
 
 const EventEmitter = require('events');
