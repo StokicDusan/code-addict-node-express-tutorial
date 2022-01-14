@@ -25,8 +25,7 @@ Node vs browser
     CommonJS
 
 Built-in modules
-    OS
-    PATH
-    FS
-    HTTP
-
+    - OS
+    - PATH
+    - FS
+    - HTTP
