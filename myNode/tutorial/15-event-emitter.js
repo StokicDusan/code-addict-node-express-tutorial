@@ -1,5 +1,6 @@
-// event-driven programming
-// the flow on the program is, at least in part, determined by the events that occure as the program executes.
+// Event-driven programming
+// the flow on the program is, at least in part, 
+// determined by the events that occure as the program executes.
 
 // Used Hevily in Node.js !!
 
