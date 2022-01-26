@@ -16,4 +16,4 @@ stream.on('data',(result)=>{
     //we are reading in chunks now !!
 })
 
-stream.on('error',(err)=> console.log(err))
+stream.on('error',(err)=> console.log(err));
