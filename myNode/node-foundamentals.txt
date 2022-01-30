@@ -4,6 +4,8 @@
 - Applications
 - Deployment
 
+https://nodesource.com/blog/the-basics-of-package-json-in-node-js-and-npm/
+
 NodeJS is an environment to run JS outside of the browser. It's built on Chrome's V8 JS Engine.
 It's never been easier to build full-stack apps.
     - intro - get familiar and settup
@@ -23,8 +25,7 @@ Node vs browser
     CommonJS
 
 Built-in modules
-    OS
-    PATH
-    FS
-    HTTP
-
+    - OS
+    - PATH
+    - FS
+    - HTTP
